@@ -1,0 +1,10 @@
+Mindly — Condiciones de uso
+
+La aplicación se ofrece gratuitamente para uso personal y académico. No se permite venderla, cobrar por su acceso ni redistribuir los instaladores o versiones modificadas sin autorización escrita del autor. El código fuente no se publica en este repositorio; su publicación en GitHub no convierte la aplicación en software de código abierto ni concede permisos para copiarla o modificarla.
+
+Para solicitar permiso, reportar un problema o proponer mejoras, contacta al autor.
+
+Juan Diego López Betancur
+juan_diego.lopez.betancur@uaz.edu.mx
+
+Los componentes de terceros conservan sus propias licencias, incluidas en la aplicación. Sus condiciones se aplican a esos componentes.
